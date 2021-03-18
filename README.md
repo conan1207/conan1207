@@ -15,6 +15,6 @@
    <br/>
    <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5" />
    <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3" />
-   <img src="https://img.shields.io/badge/Sass-cc6699?style=flat-square&logo=Sass&logoColor=white" alt="Scss" />
+   <img src="https://img.shields.io/badge/Scss-cc6699?style=flat-square&logo=Sass&logoColor=white" alt="Scss" />
    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
