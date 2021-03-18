@@ -8,7 +8,7 @@
 <p align="center">
    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript" />
    <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript" />
-   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=Reactt&logoColor=white" alt="React" />
+   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white" alt="React" />
    <img src="https://img.shields.io/badge/jQuery-0769ad?style=flat-square&logo=jQuery&logoColor=white" alt="jQuery" />
    <br/>
    <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5" />
