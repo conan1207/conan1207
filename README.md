@@ -6,7 +6,7 @@
 <br/>
 
 ## 💻주요 기술 💻
-
+<br/>
 <p align="center">
    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript" />
    <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript" />
