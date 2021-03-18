@@ -1,11 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🙆🏻‍♀️I%20AM%20SOHEE🙆🏻‍♀️&fontSize=60)
 
-> 프런트엔드 개발자🌱
+## 🌱 프런트엔드 개발자 🌱
+<p align="center">
+   "끝까지 놓지 않는 집착과 같은 집념"<br/>
+   "공감을 바탕으로 한 소통"<br/>
+   "한결 같지만, 늘 새로운 사람"
+</p>
 
 <br/>
 <br/>
 
-## 💻주요 기술 💻
+## 💻 주요 기술 💻
 <br/>
 <p align="center">
    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript" />
